@@ -28,11 +28,13 @@ Finally, add **index.html**,** App.tsx**, and **index.tsx** in the components fo
 2. Add **mockData,js**, **createMockDB.js**, **apiServer.js** file in tools directory and fill up it (look into deliverd files)
 3. Modify **package.json** script and install `npm i --save-dev npm-run-all` (look into deliverd files)
 
-### Preetier
+### Prettier
 1. `npm ---save-dev prettier`
 
 ### Helful links
 1. https://www.smashingmagazine.com/2020/05/typescript-modern-react-projects-webpack-babel/
+2. https://webpack.js.org/guides/typescript/#build-performance
+
 
 
 
